@@ -1,6 +1,4 @@
-## Hi there
-
-**NehaDhirendraSirur/NehaDhirendraSirur** is a special repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 😊!!
 
 I’m **Neha Dhirendra Sirur**, a Computer Science graduate (2025) from **KLE Technological University, Hubballi**, currently working as a **Software Engineer (Full-Stack)** at **Allstate India**.  
 I specialize in **full-stack Java development** using **Spring Boot, React, and SQL/NoSQL databases**, with a strong interest in building **scalable, production-ready systems**.
