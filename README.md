@@ -1,6 +1,5 @@
 ## Hi 😊!!
 
-<p style="font-size: 18px;">
 I’m **Neha Dhirendra Sirur**, a Computer Science graduate (2025) from **KLE Technological University, Hubballi**, currently working as a **Software Engineer (Full-Stack)** at **Allstate India**.  
 I specialize in **full-stack Java development** using **Spring Boot, React, and SQL/NoSQL databases**, with a strong interest in building **scalable, production-ready systems**.
 
@@ -11,4 +10,3 @@ My personal projects range from **crop wellness platforms** to **AI-driven music
 
 I’m always eager to **collaborate on current trends or projects** relevant to my domain—especially those combining **AI, software engineering, and research**.  
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/neha-sirur) or check out more of my work on [GitHub](https://github.com/NehaDhirendraSirur).
-</p>
